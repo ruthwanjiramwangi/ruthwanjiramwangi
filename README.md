@@ -84,3 +84,4 @@ Open to collaboration on data science projects within development and impact-dri
 ## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/ruthmwangi/)
+[Email](ruthwanjiramwangi@outlook.com)
