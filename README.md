@@ -64,14 +64,14 @@ Upcoming:
 
 BBIT – Strathmore University  
 ALX – Data Science Program  
-Girl Lead x DataCamp – Data Science Track  
+GirlLEAD x DataCamp – Data Science Track  
 
 ---
 
 ## 🤝 Community Involvement
 
-Team Manager – Data Scientist in Python Track, Girl Lead x DataCamp  
-Volunteer Mentor – ALX Data Analytics Course  
+Girl Lead x DataCamp : Team Manager – Data Scientist in Python Track,   
+ALX : Volunteer Mentor – Data Analytics Course
 
 ---
 
