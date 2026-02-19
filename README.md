@@ -1,7 +1,7 @@
 ## 👩🏽‍💻 Ruth Wanjira Mwangi
 
-Business Analyst with a background in software development.  
-Expanding into data science and machine learning with an interest in social impact applications.
+BI and Operations Analyst expanding into data science and machine learning
+Interest in social impact applications, MEAL and ESG.
 
 ---
 
@@ -29,7 +29,7 @@ Exploratory data analysis examining structural drivers of education disparities.
 
 Upcoming:
 - Customer Segmentation (Unsupervised Learning)  
-- Recommender Systems  
+- Recommender System
 
 ---
 
@@ -70,7 +70,7 @@ GirlLEAD x DataCamp – Data Science Track
 
 ## 🤝 Community Involvement
 
-Girl Lead x DataCamp : Team Manager – Data Scientist in Python Track,   
+Girl Lead x DataCamp : Team Manager – Data Scientist in Python Track
 ALX : Volunteer Mentor – Data Analytics Course
 
 ---
