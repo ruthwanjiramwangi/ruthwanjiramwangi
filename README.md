@@ -1,6 +1,7 @@
 ## 👩🏽‍💻 Ruth Wanjira Mwangi
 
-BI and Operations Analyst expanding into data science and machine learning
+BI and Operations Analyst expanding into data science and machine learning.
+
 Interest in social impact applications, MEAL and ESG.
 
 ---
