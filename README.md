@@ -28,8 +28,9 @@ Open to resources, mentorship and collaboration in these areas.
 **Education Inequality Analysis**  
 Exploratory data analysis examining structural drivers of education disparities.
 
+**Customer Segmentation - (Unsupervised Learning)**
+
 Upcoming:
-- Customer Segmentation (Unsupervised Learning)  
 - Recommender System
 
 ---
@@ -72,6 +73,7 @@ GirlLEAD x DataCamp – Data Science Track
 ## 🤝 Community Involvement
 
 Girl Lead x DataCamp : Team Manager – Data Scientist in Python Track
+
 ALX : Volunteer Mentor – Data Analytics Course
 
 ---
