@@ -31,8 +31,9 @@ Exploratory data analysis examining structural drivers of education disparities.
 **Customer Segmentation - (Unsupervised Learning)**
 
 Upcoming:
-- Recommender System
-
+- Movies Recommender System
+- Store Sales Forecasting
+  
 ---
 
 ## 🛠 Tech
